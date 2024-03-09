@@ -1,6 +1,6 @@
 # Dofus - Calculadora de Recursos.
 
-Calculadora simples criada apenas para fazer calculos rápidos com as informações do chat do próprio jogo. Você simplesmente copia e cola as informações do chat e o app faz o calculo automáticamente.
+[Calculadora de recursos](https://danielchavesfa.github.io/dofus-calculadora-de-recursos/) simples criada apenas para fazer calculos rápidos com as informações do chat do próprio jogo. Você simplesmente copia e cola as informações do chat e o app faz o calculo automáticamente.
 
 ## Como utilizar
 
@@ -15,3 +15,5 @@ Calculadora simples criada apenas para fazer calculos rápidos com as informaç�
 ### Outras campos:
 
 Você também pode colocar o valor médio (Valor Médio) do item para fazer comparações no final, assim como o valor final do item também (Valor Venda) que o app faz o calculo automático dando o resultado.
+
+[Clique aqui](https://danielchavesfa.github.io/dofus-calculadora-de-recursos/) para usar.
